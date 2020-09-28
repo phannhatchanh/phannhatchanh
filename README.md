@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [phannhatchanh.com](https://phannhatchanh.com)
 - 🌱 I’m currently learning [Python](https://www.python.org)
-- 📫 How to reach me: [at here](https://phannhatchanh.com/contact/)
+- 📫 How to reach me: phannhatchanh@gmail.com or hello@phannhatchanh.com
 
 <a href="https://github.com/phannhatchanh/phannhatchanh">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phannhatchanh&hide=html" />
