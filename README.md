@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [phannhatchanh.com](https://phannhatchanh.com)
 - 🌱 I’m currently learning [Python](https://www.python.org)
 - 📫 How to reach me: [at here](https://phannhatchanh.com/contact/)
