@@ -5,8 +5,12 @@
 [![Gmail](https://img.shields.io/badge/-phannhatchanh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phannhatchanh@gmail.com)](mailto:phannhatchanh@gmail.com)
 [![Gmail](https://img.shields.io/badge/-hello@phannhatchanh.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@phannhatchanh.com)](mailto:hello@phannhatchanh.com)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phannhatchanh&hide=html" />
-<img src="https://github-readme-stats.vercel.app/api?username=phannhatchanh&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="pnChánh's GitHub Stats" />
+<a href="https://github.com/phannhatchanh/phannhatchanh">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phannhatchanh&hide=html" />
+</a>
+<a href="https://github.com/phannhatchanh/phannhatchanh">
+  <img src="https://github-readme-stats.vercel.app/api?username=phannhatchanh&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="pnChánh's GitHub Stats" />
+</a>
 
 ---
 
