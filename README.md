@@ -1,9 +1,9 @@
 ### My Blog Articles
-[![Blog](https://img.shields.io/website?color=f74539&style=flat-square&up_message=Phan%20Nh%E1%BA%ADt%20Ch%C3%A1nh&url=https://phannhatchanh.com)](https://takumon.com)
+[![Blog](https://img.shields.io/website?color=f74539&style=flat-square&up_message=Phan%20Nh%E1%BA%ADt%20Ch%C3%A1nh&url=https://phannhatchanh.com)](https://phannhatchanh.com)
 
 ### Reach me on
-![Gmail](https://img.shields.io/badge/-phannhatchanh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phannhatchanh@gmail.com)
-![Gmail](https://img.shields.io/badge/-hello@phannhatchanh.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@phannhatchanh.com)
+[![Gmail](https://img.shields.io/badge/-phannhatchanh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phannhatchanh@gmail.com)](phannhatchanh@gmail.com)
+[![Gmail](https://img.shields.io/badge/-hello@phannhatchanh.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@phannhatchanh.com)](mailto:hello@phannhatchanh.com)
 
 <a href="https://github.com/phannhatchanh/phannhatchanh">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phannhatchanh&hide=html" />
