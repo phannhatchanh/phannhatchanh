@@ -9,3 +9,7 @@
 <a href="https://github.com/junhobaik/junhobaik">
   <img src="https://github-readme-stats.vercel.app/api?username=phannhatchanh&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="pnChánh's GitHub Stats" />
 </a>
+---
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=phannhatchanh/phannhatchanh" alt="visitor"/>
+    ![visitors](https://visitor-badge.glitch.me/badge?page_id=phannhatchanh/phannhatchanh) 
