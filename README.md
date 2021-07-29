@@ -15,6 +15,6 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=phannhatchanh/phannhatchanh" alt="visitor"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=phannhatchanh/phannhatchanh" alt="Profile views"/>
   <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=phannhatchanh/phannhatchanh) -->
 </p>
