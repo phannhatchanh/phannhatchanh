@@ -5,8 +5,6 @@
 [![Gmail](https://img.shields.io/badge/-phannhatchanh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phannhatchanh@gmail.com)](mailto:phannhatchanh@gmail.com)
 [![Gmail](https://img.shields.io/badge/-hello@phannhatchanh.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@phannhatchanh.com)](mailto:hello@phannhatchanh.com)
 
----
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phannhatchanh/phannhatchanh" alt="Profile views"/>
   <!--  ![Profile views](https://visitor-badge.glitch.me/badge?page_id=phannhatchanh/phannhatchanh) -->
