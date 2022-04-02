@@ -1,5 +1,7 @@
 <p align="center">
   <a href="https://github.com/phannhatchanh/phannhatchanh/graphs/contributors"><img src="https://img.shields.io/github/contributors/phannhatchanh/phannhatchanh?color=blue"></a>
+  <a href="https://github.com/phannhatchanh/phannhatchanh/stargazers"><img src="https://img.shields.io/github/stars/phannhatchanh/phannhatchanh.svg?logo=github"></a>
+  <a href="https://github.com/phannhatchanh/phannhatchanh/network/members"><img src="https://img.shields.io/github/forks/phannhatchanh/phannhatchanh.svg?color=blue&logo=github"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=phannhatchanh/phannhatchanh" alt="Profile views"/>
 </p>
 
