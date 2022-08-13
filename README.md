@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img alt="Logo" src="https://phannhatchanh.com/icons/icon-512x512.png" width="100" />
+  <img alt="Logo" src="https://phannhatchanh.com/static/favicons/mstile-150x150.png" width="100" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B%2C+I'm+Phan+Nhat+Chanh;Welcome+to+My+Profile!;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
